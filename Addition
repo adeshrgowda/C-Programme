@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a,b,c;
+printf("this is to add the numbers\n");
+printf("enter the two numbers to add\n");
+scanf("%d%d",&a,&b);
+c=a+b;
+printf("sum of two numbers is %d\n",c);
+printf("thank you\n");
