@@ -3,7 +3,7 @@
 void main()
 {
 int a,b,c;
-printf("this is to add the numbers\n");
+printf("this is to add the numbers in Cprogramme \n");
 printf("enter the two numbers to add\n");
 scanf("%d%d",&a,&b);
 c=a+b;
